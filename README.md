@@ -1,4 +1,4 @@
-# Sophia_Kennedy_self_project
+# Sophia_Kennedy_Self_Project
 #Web scraped Wikipedia and developed a dataset from it
 
 Instructions for execution:
