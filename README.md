@@ -5,3 +5,6 @@ Instructions for execution:
 1) Execute the code in linux
 2)Import the packages mentioned in the code
 3)Command : python3 Sophia_Kennedy_scrape.py
+
+
+
